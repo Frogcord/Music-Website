@@ -1,0 +1,15 @@
+[data-theme='light'] .NullSVG {
+    fill: black;
+    stroke: black;
+    stroke-linecap: "round";
+    stroke-linejoin: "round";
+    stroke-width: "103.682";
+  }
+  
+  [data-theme='dark'] .NullSVG {
+    fill: white;
+    stroke: white;
+    stroke-linecap: "round";
+    stroke-linejoin: "round";
+    stroke-width: "103.682";
+  }

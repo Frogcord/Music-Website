@@ -1,0 +1,8 @@
+{
+  "label": "快速設定",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "quicksetup/index"
+  }
+}
